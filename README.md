@@ -2,13 +2,7 @@
 
 Trabajo Práctico Especial - Git
 Tecnología de la Información en las Organizaciones - 2021
-Presentación
-● Informe escrito sobre el trabajo realizado.
-● Cantidad de integrantes por equipo: 6-10 personas.
-● Fecha de Entrega: 10/nov/2021 hasta las 23:59.
-● La entrega del trabajo deberá ser realizada por la plataforma moodle en formato PDF.
-● Defensa oral del trabajo el martes 16/nov/2021 en el horario de la práctica (máximo
-15 minutos).
+
 
 
 Enunciado
@@ -39,41 +33,3 @@ con al menos 5 archivos de diferente extensión, de los cuales al menos 3 archiv
 deben ser código fuente en algún lenguaje de programación. Las extensiones
 posibles pueden ser:
 o .css, .doc, .html, .java, .js, .php, .py, .txt, .xls, .xml, etc.
-Pautas de aprobación
-● Copiar en el informe el enlace al repositorio.
-● Copiar en el informe el enlace al tablero de Trello.
-● Cada tarea debe estar asignada a un integrante.
-● Mostrar cómo inician el repositorio con los respectivos comandos.
-● Cada tarea debe estar asignada a un integrante.
-● Realizar al menos 3 secuencias add-commit (c/uno).
-● Realizar al menos 3 pull-push (c/uno).
-● Eliminar al menos 1 archivo del repositorio.
-● Renombrar al menos 1 archivo/directorio del repositorio.
-● Cree una carpeta e indique a git que todo su contenido no sea tenido en
-consideración para su seguimiento.
-● Deshacer al menos 1 confirmación con los métodos vistos, añadir cambios y/o
-cambiar el mensaje a al menos 1 confirmación, y retirar al menos 1 vez
-modificaciones del área de preparación. (c/uno)
-● Crear al menos una rama a nivel local, trabajar en ella y llevar los cambios a la
-rama master. Una vez llevados los cambios, eliminar dicha rama. (c/uno)
-● Crear una rama alternativa a master y publicarla en el repositorio remoto.
-Colaborar con sus compañeros de equipo sobre esta rama y luego también llevar
-sus cambios a la rama master. NO eliminar esta rama remota.
-● En la presentación se deberá evidenciar el cumplimiento de todas las pautas.
-Pautas de promoción
-● Criterios claros de commits, creación de ramas y merge.
-● Criterio de la elección de las evidencias para mostrar el cumplimiento de "Pautas
-de aprobación".
-● Comprensión general de los comandos utilizados.
-● Presentación y claridad del informe.
-Contenido Mínimo del Informe
-El informe deberá reflejar el trabajo realizado sobre el repositorio. Deberán comentar
-cuál fue la problemática a abordar, cómo se dividieron las tareas y evidenciar cómo fueron
-trabajando sobre el repositorio. Para ello deberán mostrar las capturas de pantallas de los
-diferentes comandos utilizados junto con los resultados arrojados por la consola. Estas
-capturas deben ser acompañadas por su debida explicación. El informe debe tener una
-coherencia, detallando cronológicamente los comandos que se fueron ejecutando, qué
-problemas encontraron y cómo los fueron solucionando. Claridad, puntuación y ortografía
-serán cuidadosamente evaluadas.
-Bibliografía
-● https://git-scm.com/book/es/v2

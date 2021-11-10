@@ -42,3 +42,45 @@ p, ul, footer p, footer a{
 a:hover{
     color: rgb(48, 51, 50);
 }
+
+.btn_menu_estilo {
+    display: none;
+}
+
+@media only screen and (max-width: 400px){
+
+    .btn_menu_estilo {
+        display: flex;
+    }
+
+    p, ul, footer p, footer a{
+        margin: 10px 5%;
+        padding: 10px;
+        text-align: justify;
+        background-color: rgba(0, 0, 0, 0.233);
+        border-radius: 3%;
+    }
+    .container-btn{
+        display: flex;
+        margin: 10px 5%;
+        padding: 10px;
+        text-align: justify;
+        border-radius: 3%;
+        justify-content: center;
+    }
+    .btn_menu_estilo {
+        text-align: justify;
+        background-color: rgba(0, 0, 0, 0.233);
+        border: solid 2px;
+        border-radius: 10%;
+        padding: 10px;
+        margin: 10px;
+    }
+    ul.hide.show{
+        display: flex;
+        flex-direction: column;
+    }
+    ul.hide{
+        display: none;
+    }
+}

@@ -33,3 +33,31 @@ con al menos 5 archivos de diferente extensión, de los cuales al menos 3 archiv
 deben ser código fuente en algún lenguaje de programación. Las extensiones
 posibles pueden ser:
 o .css, .doc, .html, .java, .js, .php, .py, .txt, .xls, .xml, etc.
+
+## Pautas de aprobación
+● Copiar en el informe el enlace al repositorio.
+● Copiar en el informe el enlace al tablero de Trello.
+● Cada tarea debe estar asignada a un integrante.
+● Mostrar cómo inician el repositorio con los respectivos comandos.
+● Cada tarea debe estar asignada a un integrante.
+● Realizar al menos 3 secuencias add-commit (c/uno).
+● Realizar al menos 3 pull-push (c/uno).
+● Eliminar al menos 1 archivo del repositorio.
+● Renombrar al menos 1 archivo/directorio del repositorio.
+● Cree una carpeta e indique a git que todo su contenido no sea tenido en
+consideración para su seguimiento.
+● Deshacer al menos 1 confirmación con los métodos vistos, añadir cambios y/o
+cambiar el mensaje a al menos 1 confirmación, y retirar al menos 1 vez
+modificaciones del área de preparación. (c/uno)
+● Crear al menos una rama a nivel local, trabajar en ella y llevar los cambios a la
+rama master . Una vez llevados los cambios, eliminar dicha rama. (c/uno)
+● Crear una rama alternativa a master y publicarla en el repositorio remoto.
+Colaborar con sus compañeros de equipo sobre esta rama y luego también llevar
+sus cambios a la rama master . NO eliminar esta rama remota.
+● En la presentación se deberá evidenciar el cumplimiento de todas las pautas.
+
+## Pautas de promoción ##
+● Criterios claros de commits, creación de ramas y merge.
+● Criterio de la elección de las evidencias para mostrar el cumplimiento de “Pautas de aprobación”.
+● Comprensión general de los comandos utilizados.
+● Presentación y claridad del informe.
